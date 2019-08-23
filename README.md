@@ -1,4 +1,4 @@
 # bytebank
-Projeto de bytebank em java
+Projeto de banco virtual desenvolvido em java
 
-Impletanção de metodos de "Saldo", "Depósito", Saque" e "Transferência" 
+Impletanção de métodos de "Saldo", "Depósito", Saque" e "Transferência" 
